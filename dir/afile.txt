@@ -3,4 +3,8 @@ second line
 third line
 fourth line
 
+<<<<<<< HEAD
 cat
+=======
+dog
+>>>>>>> 94897ed0b87be79655094de15030d79c416e8d37
