@@ -8,3 +8,7 @@ cat
 =======
 dog
 >>>>>>> 94897ed0b87be79655094de15030d79c416e8d37
+
+
+
+a new line at the end for "a-good-branch-name"
